@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0ffc0e37-d4b9-43af-9b85-60e5b53ebb94" name="Changes" comment="Tight and Loose Coupling" />
+    <list default="true" id="0ffc0e37-d4b9-43af-9b85-60e5b53ebb94" name="Changes" comment="Tight and Loose Coupling">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,6 +20,13 @@
       </list>
     </option>
   </component>
+  <component name="Git.Pull.Settings">
+    <option name="OPTIONS">
+      <set>
+        <option value="REBASE" />
+      </set>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="PUSH_TAGS">
       <GitPushTagMode>
@@ -27,15 +36,21 @@
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/Vedantdumbre/SpringBoot.git",
-    "accountId": "a2f0e2fc-8cb4-4e6b-a9c5-1f07340b9e78"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Vedantdumbre&quot;
   }
-}]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 8
-}]]></component>
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Vedantdumbre/SpringBoot.git&quot;,
+    &quot;accountId&quot;: &quot;a2f0e2fc-8cb4-4e6b-a9c5-1f07340b9e78&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
   <component name="ProjectId" id="3BLmjGD6FmUvN8HQ4qwcTaVnbUQ" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="1" id="Add" />
@@ -52,7 +67,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Web Development/Backend proj/Spring",
     "onboarding.tips.debug.path": "C:/Web Development/Backend proj/Spring/src/main/java/org/example/Main.java",
     "settings.editor.selected.configurable": "preferences.lookFeel"
   }
@@ -60,7 +75,6 @@
   <component name="RunManager" selected="Application.LooseCouplingExample">
     <configuration name="LooseCouplingExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.loose.coupling.LooseCouplingExample" />
-      <module name="Spring" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.loose.coupling.*" />
@@ -115,7 +129,23 @@
       <option name="project" value="LOCAL" />
       <updated>1774281284255</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Tight and Loose Coupling">
+      <option name="closed" value="true" />
+      <created>1774281693437</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1774281693437</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Tight and Loose Coupling">
+      <option name="closed" value="true" />
+      <created>1774281710174</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1774281710174</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
